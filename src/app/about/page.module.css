@@ -1,0 +1,36 @@
+.imgContainer{
+    width: 100%;
+    position: relative;
+    height: 300px;
+}
+.img{
+    object-fit: cover;
+    filter: grayscale(70%);
+
+}
+.imageText{
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    background-color: #53c28b;
+    color: white;
+    padding: 8px;
+
+
+}
+.textContainer{
+    display: flex;
+    gap : 100px;
+}
+.item{
+    flex: 1;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.textDesc{
+    font-size: 18px;
+    font-weight: 300;
+    text-align: justify;
+}
