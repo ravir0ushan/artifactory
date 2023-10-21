@@ -1,4 +1,23 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Artifactory
+## Description  
+
+This is an ongoing full-stack web development project designed to showcase a modern and dynamic website. The project leverages several technologies and tools, including Next.js, JavaScript, MongoDB, and Express, to create a feature-rich web application. The primary focus of this project is to provide an interactive and visually appealing user experience while also incorporating server-side rendering and robust data management capabilities.
+## Features
+Front-End Technology: The project utilizes Next.js for server-side rendering, ensuring fast loading times and improved SEO. React components are used to create a responsive and dynamic user interface.
+
+Back-End Technology: Express is employed to build the back-end server, which handles API routes and interacts with the MongoDB database. This server-side logic supports user authentication, data retrieval, and data storage.
+
+Database: MongoDB serves as the project's database, offering a flexible and scalable solution for data storage. It provides efficient data management and retrieval capabilities.
+
+Data Management: The application manages a wide range of data, which can include user profiles, content, images, and more. It provides features for adding, updating, and retrieving data efficiently.
+
+Responsive Design: The website is designed to be fully responsive, ensuring a seamless experience across various devices and screen sizes.   
+The website looks like :  
+
+![screenshort](public/img1.png)
+![screenshort](public/img2.png)
+![screenshort](public/img3.png)
 
 ## Getting Started
 
@@ -18,17 +37,4 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
